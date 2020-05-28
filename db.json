@@ -1,0 +1,15 @@
+{
+    "container" : [
+        {"numeracion": "28-01000001","envase":"BIN","Materia":"ARÁNDANO","UnidadAgricola":"Danper","Modulo":"M1"},
+        {"numeracion": "28-01000002","envase":"JABA","Materia":"PALTA HASS","UnidadAgricola":"Danper","Modulo":"M1"},
+        {"numeracion": "28-01000003","envase":"BIN","Materia":"BERENJENA","UnidadAgricola":"Danper","Modulo":"M1"},
+        {"numeracion": "28-01000004","envase":"BIN","Materia":"PAPAYA ANDINA","UnidadAgricola":"Danper","Modulo":"M1"},
+        {"numeracion": "28-01000005","envase":"BIN","Materia":"PIMIENTO JALAPEÑO","UnidadAgricola":"Danper","Modulo":"M1"},
+        {"numeracion": "28-01000006","envase":"JABA","Materia":"FRESA","UnidadAgricola":"Danper","Modulo":"M1"},
+        {"numeracion": "28-01000007","envase":"BIN","Materia":"PIMIENTO CHERRY BOOM ROJO","UnidadAgricola":"Danper","Modulo":"M1"},
+        {"numeracion": "28-01000008","envase":"JABA","Materia":"PIMIENTO LOMBARDO","UnidadAgricola":"Danper","Modulo":"M1"},
+        {"numeracion": "28-01000009","envase":"BIN","Materia":"ARÁNDANO BILOXY","UnidadAgricola":"Danper","Modulo":"M1"},
+        {"numeracion": "28-02000001","envase":"BIN","Materia":"ARÁNDANO VENTURA","UnidadAgricola":"Danper","Modulo":"M1"},
+        {"numeracion": "28-02000002","envase":"JABA","Materia":"PALTA MALUMA","UnidadAgricola":"Danper","Modulo":"M1"}
+    ]
+}
