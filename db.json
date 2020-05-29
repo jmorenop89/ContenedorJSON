@@ -11,5 +11,10 @@
         {"numeracion": "28-01000009","envase":"BIN","Materia":"ARÁNDANO BILOXY","UnidadAgricola":"Danper","Modulo":"M1"},
         {"numeracion": "28-02000001","envase":"BIN","Materia":"ARÁNDANO VENTURA","UnidadAgricola":"Danper","Modulo":"M1"},
         {"numeracion": "28-02000002","envase":"JABA","Materia":"PALTA MALUMA","UnidadAgricola":"Danper","Modulo":"M1"}
+    ],
+    "operacion" : [
+        {"id":1,"resultado":2000},
+        {"id":2,"resultado":2020},
+        {"id":3,"resultado":3000}
     ]
 }
